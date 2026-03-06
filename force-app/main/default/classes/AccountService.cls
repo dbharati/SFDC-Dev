@@ -1,6 +1,7 @@
 public class AccountService {
 
     // Method to get accounts
+    // display the account name, industry, and annual revenue
     public static List<Account> getAccounts() {
         
         List<Account> accList = [
